@@ -1,6 +1,6 @@
 class Libhoard < Formula
   desc "Fast malloc replacement"
-  homepage "https://github.com/emeryberger/Hoard"
+  homepage "https://www.hoard.org"
 
   head do
     url "https://github.com/emeryberger/Hoard.git", :branch => "master"
